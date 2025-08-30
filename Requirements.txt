@@ -1,0 +1,6 @@
+numpy
+Pillow
+tensorflow
+matplotlib
+streamlit
+streamlit-extras
